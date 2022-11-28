@@ -5,7 +5,7 @@
 > - To be able to understand and exploit application code
 > - To be able to convert from hexadecimal to ascii characters
 
-1. Open "level1.py" in your terminal
+1. Open "level2.py" in your terminal
 2. Go through the code line by line, ignoring the section that has been highlighted for you to ignore. Do you notice anything _different_ this time?
 <details>
 <summary>Hint?</summary>
